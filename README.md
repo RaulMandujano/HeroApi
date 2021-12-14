@@ -2,6 +2,10 @@
 
 This api has more then 500 heroes and villians from diferents comics. You have to create an account on the SIGN UP route to display the heroe list.
 
+## CSS Animation
+
+CSS animation was added to the routes. when you move from Sign up, Login, and the Hero List it will have animation to make the website more attractive to visitor/
+
 ## Hero List
 
 The Hero List is separeted by characters from comics industries as Marvel, DC and Dark Horse. You can play around using the tabs.
