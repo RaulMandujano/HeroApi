@@ -1,3 +1,20 @@
+#Hero API
+
+This api has more then 500 heroes and villians from diferents comics. You have to create an account on the SIGN UP route to display the heroe list.
+
+## Hero List
+
+The Hero List is separeted by characters from comics industries as Marvel, DC and Dark Horse. You can play around using the tabs.
+It also has the option to find a character by name. You can type the name and it will display a short summary of you character.
+
+## Hero Detail
+
+Clicking on any characater will display the character indivually where you will be able to find character personal information and image.
+
+## Powerstats
+
+Powers stats are displayed on a Modal on the down right corner next to the starts option.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
