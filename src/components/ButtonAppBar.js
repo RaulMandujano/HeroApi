@@ -75,8 +75,9 @@ export default function ButtonAppBar() {
         )}
       </List>
     </Box>
-  )
-
+  ) 
+ 
+  
   return (
     <>
       <Box sx={{ flexGrow: 1 }}>
@@ -102,7 +103,7 @@ export default function ButtonAppBar() {
                 color="inherit"
                 onClick={() => handleNavChoice('welcome')}
               ></IconButton>
-              <Link to={'/heroes'}>Super Hero</Link>
+              <Link className="nav-link" to={'/heroes'}>Super Hero</Link>
             </Typography>
             <Button color="inherit">
               <Link className="nav-link" to={'/signin'}>
@@ -124,3 +125,4 @@ export default function ButtonAppBar() {
     </>
   )
 }
+
